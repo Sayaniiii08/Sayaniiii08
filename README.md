@@ -29,7 +29,7 @@ I'm a *final-year Computer Science Engineering (CSE) student* at **KIIT Universi
 
 ## 📫 Connect with Me
 
-[![LinkedIn](www.linkedin.com/in/sayani-mondal-7220ab24b)] 
+[![LinkedIn]((https://www.linkedin.com/in/sayani-mondal-7220ab24b/))] 
 [![GitHub](https://github.com/Sayaniiii08)]
 
 ---
