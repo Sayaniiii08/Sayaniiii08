@@ -60,8 +60,8 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="[www.linkedin.com/in/sayani-mondal-7220ab24b]"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[https://github.com/Sayaniiii08]"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sayani-mondal-7220ab24b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Sayaniiii08"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
